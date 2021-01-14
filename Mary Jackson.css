@@ -1,0 +1,15 @@
+#bottom-text {
+  font-size: 14px;
+}
+.times {
+  font-family: times;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.grey-background {
+  background-color: #DBDCE0;
+}
